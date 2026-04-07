@@ -1,0 +1,40 @@
+Sl. No. (Col.1),Category (Col.2),State/UT (Col.3),Total Number of Accidental Deaths - Forces of Nature (Col.4),Total Number of Accidental Deaths - Other Causes (Col.5),Total Number of Accidental Deaths - Total (Col.6),Percentage Share in Total Deaths (Col.7),Projected Mid-Year Population* (In Lakh+) (Col.8),Rate of Accidental Deaths (Col.9) = (Col.6/Col.8)
+1,State,Andhra Pradesh,426,17382,17808,4.3,517.4,34.4
+2,State,Arunachal Pradesh,47,409,456,0.1,13.2,34.5
+3,State,Assam,544,4971,5515,1.3,325.8,16.9
+4,State,Bihar,1057,9514,10571,2.5,1043,10.1
+5,State,Chhattisgarh,305,17809,18114,4.3,259.9,69.7
+6,State,Goa,0,768,768,0.2,19.9,38.6
+7,State,Gujarat,127,27283,27410,6.6,630.8,43.5
+8,State,Haryana,604,14387,14991,3.6,276.1,54.3
+9,State,Himachal Pradesh,84,3278,3362,0.8,71.2,47.2
+10,State,Jammu & Kashmir,280,1485,1765,0.4,124.6,14.2
+11,State,Jharkhand,757,5758,6515,1.6,338,19.3
+12,State,Karnataka,96,26133,26229,6.3,625.7,41.9
+13,State,Kerala,29,11980,12009,2.9,357.5,33.6
+14,State,Madhya Pradesh,899,41107,42006,10,782.6,53.7
+15,State,Maharashtra,482,68620,69102,16.5,1205.5,57.3
+16,State,Manipur,0,286,286,0.1,26,11
+17,State,Meghalaya,18,403,421,0.1,27.8,15.1
+18,State,Mizoram,11,192,203,0,10.7,19
+19,State,Nagaland,0,79,79,0,23.9,3.3
+20,State,Odisha,467,11821,12288,2.9,425.9,28.9
+21,State,Punjab,298,10708,11006,2.6,292,37.7
+22,State,Rajasthan,195,28216,28411,6.8,732.8,38.8
+23,State,Sikkim,5,285,290,0.1,6.5,44.6
+24,State,Tamil Nadu,48,32942,32990,7.9,695.2,47.5
+25,State,Telangana,292,13288,13580,3.2,368.5,36.9
+26,State,Tripura,21,738,759,0.2,38.4,19.8
+27,State,Uttar Pradesh,1307,32761,34068,8.1,2192.4,15.5
+28,State,Uttarakhand,54,1584,1638,0.4,106.8,15.3
+29,State,West Bengal,220,16974,17194,4.1,938.3,18.3
+State,State,Total (States),8673,401161,409834,98,12476.2,32.8
+30,Union Territory,A & N Islands,1,241,242,0.1,5.5,44
+31,Union Territory,Chandigarh,4,422,426,0.1,18,23.7
+32,Union Territory,D & N Haveli,0,119,119,0,4.3,27.7
+33,Union Territory,Daman & Diu,0,171,171,0,3.3,51.8
+34,Union Territory,Delhi (UT),6,6573,6579,1.6,214.9,30.6
+35,Union Territory,Lakshadweep,0,12,12,0,0.8,15
+36,Union Territory,Puducherry,0,838,838,0.2,16.8,49.9
+Union Territory,Union Territory,Total (UTs),11,8376,8387,2,263.7,31.8
+Total (All India),Total (All India),Total (All India),8684,409537,418221,100,12739.9,32.8
