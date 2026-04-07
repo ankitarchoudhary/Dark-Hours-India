@@ -1,55 +1,94 @@
-Sl. No. (Col.1),Category (Col.2),City (Col.3),Total Number of Accidental Deaths - Forces of Nature (Col.4),Total Number of Accidental Deaths - Other Causes (Col.5),Total Number of Accidental Deaths - Total (Col.6),Percentage Share in Total Deaths (Col.7),Population** (in Lakh) (Col.8),Rate of Accidental Deaths (Col.9 = Col.6/Col.8)
-1,City,Agra,5,390,395,0.6,17.5,22.6
-2,City,Ahmedabad,2,1925,1927,3.2,63.5,30.3
-3,City,Allahabad,0,356,356,0.6,12.2,29.2
-4,City,Amritsar,51,268,319,0.5,11.8,27
-5,City,Asansol,1,541,542,0.9,12.4,43.7
-6,City,Aurangabad,2,1151,1153,1.9,11.9,96.9
-7,City,Bengaluru,0,3632,3632,6,85,42.7
-8,City,Bhopal,7,678,685,1.1,18.8,36.4
-9,City,Chandigarh (City),1,282,283,0.5,10.3,27.5
-10,City,Chennai,4,2042,2046,3.4,87,23.5
-11,City,Coimbatore,0,568,568,0.9,21.5,26.4
-12,City,Delhi (City),0,4450,4450,7.3,163.2,27.3
-13,City,Dhanbad,21,199,220,0.4,12,18.3
-14,City,Durg Bhilainagar,1,790,791,1.3,10.6,74.6
-15,City,Faridabad,8,1058,1066,1.7,14.1,75.6
-16,City,Ghaziabad,4,632,636,1,23.6,26.9
-17,City,Gwalior,0,262,262,0.4,11,23.8
-18,City,Hyderabad,4,1021,1025,1.7,77.5,13.2
-19,City,Indore,2,1066,1068,1.8,21.7,49.2
-20,City,Jabalpur,0,745,745,1.2,12.7,58.7
-21,City,Jaipur,5,2937,2942,4.8,30.7,95.8
-22,City,Jamshedpur,9,392,401,0.7,13.4,29.9
-23,City,Jodhpur,0,1045,1045,1.7,11.4,91.7
-24,City,Kannur,3,201,204,0.3,16.4,12.4
-25,City,Kanpur,19,1622,1641,2.7,29.2,56.2
-26,City,Kochi,9,497,506,0.8,21.2,23.9
-27,City,Kolkata,0,733,733,1.2,141.1,5.2
-28,City,Kollam,0,516,516,0.8,11.1,46.5
-29,City,Kota,2,442,444,0.7,10,44.4
-30,City,Kozhikode,23,444,467,0.8,20.3,23
-31,City,Lucknow,0,545,545,0.9,29,18.8
-32,City,Ludhiana,32,828,860,1.4,16.1,53.4
-33,City,Madurai,0,425,425,0.7,14.6,29.1
-34,City,Malappuram,0,295,295,0.5,17,17.4
-35,City,Meerut,0,223,223,0.4,14.3,15.6
-36,City,Mumbai,3,9315,9318,15.3,184.1,50.6
-37,City,Nagpur,0,2101,2101,3.4,25,84
-38,City,Nasik,0,972,972,1.6,15.6,62.3
-39,City,Patna,3,395,398,0.7,20.5,19.4
-40,City,Pune,0,4982,4982,8.2,50.5,98.7
-41,City,Raipur,0,1029,1029,1.7,11.2,91.9
-42,City,Rajkot,3,1289,1292,2.1,13.9,92.9
-43,City,Ranchi,61,452,513,0.8,11.3,45.4
-44,City,Srinagar,0,145,145,0.2,12.7,11.4
-45,City,Surat,0,2249,2249,3.7,45.9,49
-46,City,Thiruvananthapuram,65,624,689,1.1,16.9,40.8
-47,City,Thrissur,0,386,386,0.6,18.6,20.8
-48,City,Tiruchirappalli,0,140,140,0.2,10.2,13.7
-49,City,Vadodara,1,770,771,1.3,18.2,42.4
-50,City,Varanasi,76,202,278,0.5,14.4,19.3
-51,City,Vasai Virar,0,1069,1069,1.8,12.2,87.6
-52,City,Vijayawada,31,520,551,0.9,14.9,37
-53,City,Vishakhapatnam,2,722,724,1.2,17.3,41.8
-City,City,Total (Cities),460,60563,61023,100,1607.2,38
+Sl. No.,Category,State/UT/City,Deaths due to Forces of Nature - 2016,Deaths due to Forces of Nature - 2017,Deaths due to Forces of Nature - % Variation,Deaths due to Other Causes - 2016,Deaths due to Other Causes - 2017,Deaths due to Other Causes - % Variation,Total Accidental Deaths - 2016,Total Accidental Deaths - 2017,Total Accidental Deaths - % Variation
+1,State,Andhra Pradesh,426,346,-18.8,17382,16892,-2.8,17808,17238,-3.2
+2,State,Arunachal Pradesh,47,29,-38.3,409,204,-50.1,456,233,-48.9
+3,State,Assam,544,99,-81.8,4971,4691,-5.6,5515,4790,-13.1
+4,State,Bihar,1057,1089,3,9514,10708,12.5,10571,11797,11.6
+5,State,Chhattisgarh,305,353,15.7,17809,17745,-0.4,18114,18098,-0.1
+6,State,Goa,0,0,NA,768,843,9.8,768,843,9.8
+7,State,Gujarat,127,205,61.4,27283,24336,-10.8,27410,24541,-10.5
+8,State,Haryana,604,161,-73.3,14387,15057,4.7,14991,15218,1.5
+9,State,Himachal Pradesh,84,167,98.8,3278,3082,-6,3362,3249,-3.4
+10,State,Jammu & Kashmir,280,127,-54.6,1485,1227,-17.4,1765,1354,-23.3
+11,State,Jharkhand,757,319,-57.9,5758,5794,0.6,6515,6113,-6.2
+12,State,Karnataka,96,122,27.1,26133,23496,-10.1,26229,23618,-10
+13,State,Kerala,29,143,393.1,11980,11665,-2.6,12009,11808,-1.7
+14,State,Madhya Pradesh,899,583,-35.2,41107,40028,-2.6,42006,40611,-3.3
+15,State,Maharashtra,482,478,-0.8,68620,64159,-6.5,69102,64637,-6.5
+16,State,Manipur,0,5,NA,286,273,-4.5,286,278,-2.8
+17,State,Meghalaya,18,32,77.8,403,445,10.4,421,477,13.3
+18,State,Mizoram,11,2,-81.8,192,214,11.5,203,216,6.4
+19,State,Nagaland,0,1,NA,79,83,5.1,79,84,6.3
+20,State,Odisha,467,931,99.4,11821,13395,13.3,12288,14326,16.6
+21,State,Punjab,298,154,-48.3,10708,9679,-9.6,11006,9833,-10.7
+22,State,Rajasthan,195,198,1.5,28216,27634,-2.1,28411,27832,-2
+23,State,Sikkim,5,13,160,285,281,-1.4,290,294,1.4
+24,State,Tamil Nadu,48,94,95.8,32942,27999,-15,32990,28093,-14.8
+25,State,Telangana,292,259,-11.3,13288,11293,-15,13580,11552,-14.9
+26,State,Tripura,21,28,33.3,738,711,-3.7,759,739,-2.6
+27,State,Uttar Pradesh,1307,897,-31.4,32761,33863,3.4,34068,34760,2
+28,State,Uttarakhand,54,64,18.5,1584,1517,-4.2,1638,1581,-3.5
+29,State,West Bengal,220,240,9.1,16974,14869,-12.4,17194,15109,-12.1
+State,State,Total (States),8673,7139,-17.7,401161,382183,-4.7,409834,389322,-5
+30,Union Territory,A & N Islands,1,1,0,241,186,-22.8,242,187,-22.7
+31,Union Territory,Chandigarh,4,1,-75,422,299,-29.1,426,300,-29.6
+32,Union Territory,D & N Haveli,0,2,NA,119,147,23.5,119,149,25.2
+33,Union Territory,Daman & Diu,0,0,NA,171,157,-8.2,171,157,-8.2
+34,Union Territory,Delhi (UT),6,0,-100,6573,4911,-25.3,6579,4911,-25.4
+35,Union Territory,Lakshadweep,0,0,NA,12,6,-50,12,6,-50
+36,Union Territory,Puducherry,0,0,NA,838,1552,85.2,838,1552,85.2
+Union Territory,Union Territory,Total (UTs),11,4,-63.6,8376,7258,-13.3,8387,7262,-13.4
+Total (All India),Total (All India),Total (All India),8684,7143,-17.7,409537,389441,-4.9,418221,396584,-5.2
+1,City,Agra,8,5,-37.5,642,390,-39.3,650,395,-39.2
+2,City,Ahmedabad,1,2,100,2252,1925,-14.5,2253,1927,-14.5
+3,City,Allahabad,29,0,-100,682,356,-47.8,711,356,-49.9
+4,City,Amritsar,35,51,45.7,320,268,-16.3,355,319,-10.1
+5,City,Asansol,0,1,NA,1450,541,-62.7,1450,542,-62.6
+6,City,Aurangabad,0,2,NA,966,1151,19.2,966,1153,19.4
+7,City,Bengaluru,0,0,NA,3756,3632,-3.3,3756,3632,-3.3
+8,City,Bhopal,2,7,250,2996,678,-77.4,2998,685,-77.2
+9,City,Chandigarh (City),4,1,-75,412,282,-31.6,416,283,-32
+10,City,Chennai,0,4,NA,4081,2042,-50,4081,2046,-49.9
+11,City,Coimbatore,0,0,NA,583,568,-2.6,583,568,-2.6
+12,City,Delhi (City),6,0,-100,5462,4450,-18.5,5468,4450,-18.6
+13,City,Dhanbad,14,21,50,168,199,18.5,182,220,20.9
+14,City,Durg Bhilainagar,1,1,0,766,790,3.1,767,791,3.1
+15,City,Faridabad,5,8,60,939,1058,12.7,944,1066,12.9
+16,City,Ghaziabad,24,4,-83.3,756,632,-16.4,780,636,-18.5
+17,City,Gwalior,1,0,-100,252,262,4,253,262,3.6
+18,City,Hyderabad,1,4,300,1243,1021,-17.9,1244,1025,-17.6
+19,City,Indore,1,2,100,1074,1066,-0.7,1075,1068,-0.7
+20,City,Jabalpur,19,0,-100,715,745,4.2,734,745,1.5
+21,City,Jaipur,2,5,150,3210,2937,-8.5,3212,2942,-8.4
+22,City,Jamshedpur,8,9,12.5,325,392,20.6,333,401,20.4
+23,City,Jodhpur,0,0,NA,951,1045,9.9,951,1045,9.9
+24,City,Kannur,0,3,NA,176,201,14.2,176,204,15.9
+25,City,Kanpur,9,19,111.1,1163,1622,39.5,1172,1641,40
+26,City,Kochi,0,9,NA,478,497,4,478,506,5.9
+27,City,Kolkata,0,0,NA,747,733,-1.9,747,733,-1.9
+28,City,Kollam,0,0,NA,439,516,17.5,439,516,17.5
+29,City,Kota,1,2,100,530,442,-16.6,531,444,-16.4
+30,City,Kozhikode,0,23,NA,433,444,2.5,433,467,7.9
+31,City,Lucknow,0,0,NA,426,545,27.9,426,545,27.9
+32,City,Ludhiana,51,32,-37.3,915,828,-9.5,966,860,-11
+33,City,Madurai,0,0,NA,590,425,-28,590,425,-28
+34,City,Malappuram,0,0,NA,213,295,38.5,213,295,38.5
+35,City,Meerut,0,0,NA,236,223,-5.5,236,223,-5.5
+36,City,Mumbai,0,3,NA,8713,9315,6.9,8713,9318,6.9
+37,City,Nagpur,2,0,-100,2036,2101,3.2,2038,2101,3.1
+38,City,Nasik,0,0,NA,1383,972,-29.7,1383,972,-29.7
+39,City,Patna,22,3,-86.4,403,395,-2,425,398,-6.4
+40,City,Pune,3,0,-100,5656,4982,-11.9,5659,4982,-12
+41,City,Raipur,0,0,NA,1008,1029,2.1,1008,1029,2.1
+42,City,Rajkot,0,3,NA,1201,1289,7.3,1201,1292,7.6
+43,City,Ranchi,58,61,5.2,474,452,-4.6,532,513,-3.6
+44,City,Srinagar,108,0,-100,154,145,-5.8,262,145,-44.7
+45,City,Surat,0,0,NA,2486,2249,-9.5,2486,2249,-9.5
+46,City,Thiruvananthapuram,2,65,3150,602,624,3.7,604,689,14.1
+47,City,Thrissur,0,0,NA,430,386,-10.2,430,386,-10.2
+48,City,Tiruchirappalli,0,0,NA,301,140,-53.5,301,140,-53.5
+49,City,Vadodara,0,1,NA,932,770,-17.4,932,771,-17.3
+50,City,Varanasi,63,76,20.6,248,202,-18.5,311,278,-10.6
+51,City,Vasai Virar,0,0,NA,1004,1069,6.5,1004,1069,6.5
+52,City,Vijayawada,11,31,181.8,728,520,-28.6,739,551,-25.4
+53,City,Vishakhapatnam,4,2,-50,799,722,-9.6,803,724,-9.8
+City,City,Total (Cities),495,460,-7.1,68905,60563,-12.1,69400,61023,-12.1
