@@ -1,279 +1,281 @@
 S.No.,State/UT,Year,Total Accidental Deaths
-1,Andaman and Nicobar Islands,2015,91.0
-2,Andhra Pradesh,2015,1321.0
-3,Arunachal Pradesh,2015,23.0
-4,Assam,2015,185.0
-5,Bihar,2015,481.0
-6,Chandigarh,2015,67.0
-7,Chhattisgarh,2015,4679.0
-8,Dadra and Nagar Haveli and Daman and Diu,2015,42.0
-9,Delhi,2015,393.0
-10,Goa,2015,54.0
-11,Gujarat,2015,6091.0
-12,Haryana,2015,2246.0
-13,Himachal Pradesh,2015,638.0
-14,Jammu and Kashmir,2015,241.0
-15,Jharkhand,2015,576.0
-16,Karnataka,2015,6196.0
-17,Kerala,2015,2810.0
-18,Lakshadweep,2015,3.0
-19,Madhya Pradesh,2015,9468.0
-20,Maharashtra,2015,12681.0
-21,Manipur,2015,46.0
-22,Meghalaya,2015,33.0
-23,Mizoram,2015,28.0
-24,Nagaland,2015,4.0
-25,Odisha,2015,1746.0
-26,Puducherry,2015,418.0
-27,Punjab,2015,1715.0
-28,Rajasthan,2015,4988.0
-29,Sikkim,2015,17.0
-30,Tamil Nadu,2015,4679.0
-31,Telangana,2015,1138.0
-32,Tripura,2015,147.0
-33,Uttar Pradesh,2015,1963.0
-34,Uttarakhand,2015,428.0
-35,West Bengal,2015,1260.0
-36,Andaman and Nicobar Islands,2016,242.0
-37,Andhra Pradesh,2016,17808.0
-38,Arunachal Pradesh,2016,456.0
-39,Assam,2016,5515.0
-40,Bihar,2016,10571.0
-41,Chandigarh,2016,426.0
-42,Chhattisgarh,2016,18114.0
-43,Dadra and Nagar Haveli and Daman and Diu,2016,290.0
-44,Delhi,2016,6579.0
-45,Goa,2016,768.0
-46,Gujarat,2016,27410.0
-47,Haryana,2016,14991.0
-48,Himachal Pradesh,2016,3362.0
-49,Jammu and Kashmir,2016,1765.0
-50,Jharkhand,2016,6515.0
-51,Karnataka,2016,26229.0
-52,Kerala,2016,12009.0
-53,Lakshadweep,2016,12.0
-54,Madhya Pradesh,2016,42006.0
-55,Maharashtra,2016,69102.0
-56,Manipur,2016,286.0
-57,Meghalaya,2016,421.0
-58,Mizoram,2016,203.0
-59,Nagaland,2016,79.0
-60,Odisha,2016,12288.0
-61,Puducherry,2016,838.0
-62,Punjab,2016,11006.0
-63,Rajasthan,2016,28411.0
-64,Sikkim,2016,290.0
-65,Tamil Nadu,2016,32990.0
-66,Telangana,2016,13580.0
-67,Tripura,2016,759.0
-68,Uttar Pradesh,2016,34068.0
-69,Uttarakhand,2016,1638.0
-70,West Bengal,2016,17194.0
-71,Andaman and Nicobar Islands,2017,187.0
-72,Andhra Pradesh,2017,17238.0
-73,Arunachal Pradesh,2017,233.0
-74,Assam,2017,4790.0
-75,Bihar,2017,11797.0
-76,Chandigarh,2017,300.0
-77,Chhattisgarh,2017,18098.0
-78,Dadra and Nagar Haveli and Daman and Diu,2017,306.0
-79,Delhi,2017,4911.0
-80,Goa,2017,843.0
-81,Gujarat,2017,24541.0
-82,Haryana,2017,15218.0
-83,Himachal Pradesh,2017,3249.0
-84,Jammu and Kashmir,2017,1354.0
-85,Jharkhand,2017,6113.0
-86,Karnataka,2017,23618.0
-87,Kerala,2017,11808.0
-88,Lakshadweep,2017,6.0
-89,Madhya Pradesh,2017,40611.0
-90,Maharashtra,2017,64637.0
-91,Manipur,2017,278.0
-92,Meghalaya,2017,477.0
-93,Mizoram,2017,216.0
-94,Nagaland,2017,84.0
-95,Odisha,2017,14326.0
-96,Puducherry,2017,1552.0
-97,Punjab,2017,9833.0
-98,Rajasthan,2017,27832.0
-99,Sikkim,2017,294.0
-100,Tamil Nadu,2017,28093.0
-101,Telangana,2017,11552.0
-102,Tripura,2017,739.0
-103,Uttar Pradesh,2017,34760.0
-104,Uttarakhand,2017,1581.0
-105,West Bengal,2017,15109.0
-106,Andaman and Nicobar Islands,2018,183.0
-107,Andhra Pradesh,2018,16809.0
-108,Arunachal Pradesh,2018,339.0
-109,Assam,2018,5256.0
-110,Bihar,2018,12717.0
-111,Chandigarh,2018,242.0
-112,Chhattisgarh,2018,18839.0
-113,Dadra and Nagar Haveli and Daman and Diu,2018,300.0
-114,Delhi,2018,5103.0
-115,Goa,2018,738.0
-116,Gujarat,2018,24714.0
-117,Haryana,2018,15558.0
-118,Himachal Pradesh,2018,2867.0
-119,Jammu and Kashmir,2018,1519.0
-120,Jharkhand,2018,6594.0
-121,Karnataka,2018,24993.0
-122,Kerala,2018,12311.0
-123,Lakshadweep,2018,6.0
-124,Madhya Pradesh,2018,42154.0
-125,Maharashtra,2018,68834.0
-126,Manipur,2018,300.0
-127,Meghalaya,2018,459.0
-128,Mizoram,2018,187.0
-129,Nagaland,2018,86.0
-130,Odisha,2018,18248.0
-131,Puducherry,2018,1213.0
-132,Punjab,2018,10328.0
-133,Rajasthan,2018,28375.0
-134,Sikkim,2018,279.0
-135,Tamil Nadu,2018,24612.0
-136,Telangana,2018,11022.0
-137,Tripura,2018,711.0
-138,Uttar Pradesh,2018,37620.0
-139,Uttarakhand,2018,1924.0
-140,West Bengal,2018,16384.0
-141,Andaman and Nicobar Islands,2019,0.0
-142,Andhra Pradesh,2019,4.3
-143,Arunachal Pradesh,2019,0.1
-144,Assam,2019,1.3
-145,Bihar,2019,3.6
-146,Chandigarh,2019,0.1
-147,Chhattisgarh,2019,4.7
-148,Dadra and Nagar Haveli and Daman and Diu,2019,0.0
-149,Delhi,2019,1.2
-150,Goa,2019,0.2
-151,Gujarat,2019,5.7
-152,Haryana,2019,3.7
-153,Himachal Pradesh,2019,0.8
-154,Jammu and Kashmir,2019,0.3
-155,Jharkhand,2019,1.8
-156,Karnataka,2019,6.0
-157,Kerala,2019,3.3
-158,Lakshadweep,2019,0.0
-159,Madhya Pradesh,2019,10.1
-160,Maharashtra,2019,16.7
-161,Manipur,2019,0.1
-162,Meghalaya,2019,0.1
-163,Mizoram,2019,0.0
-164,Nagaland,2019,0.0
-165,Odisha,2019,3.9
-166,Puducherry,2019,0.3
-167,Punjab,2019,2.6
-168,Rajasthan,2019,6.8
-169,Sikkim,2019,0.1
-170,Tamil Nadu,2019,5.3
-171,Telangana,2019,2.8
-172,Tripura,2019,0.2
-173,Uttar Pradesh,2019,9.6
-174,Uttarakhand,2019,0.4
-175,West Bengal,2019,3.8
-176,Andaman and Nicobar Islands,2020,0.1
-177,Andhra Pradesh,2020,3.9
-178,Arunachal Pradesh,2020,0.1
-179,Assam,2020,1.3
-180,Bihar,2020,3.9
-181,Chandigarh,2020,0.1
-182,Chhattisgarh,2020,5.4
-183,Delhi,2020,1.1
-184,Goa,2020,0.2
-185,Gujarat,2020,5.6
-186,Haryana,2020,4.0
-187,Himachal Pradesh,2020,0.7
-188,Jammu and Kashmir,2020,0.3
-189,Jharkhand,2020,1.8
-190,Karnataka,2020,6.5
-191,Kerala,2020,3.5
-192,Lakshadweep,2020,0.0
-193,Madhya Pradesh,2020,10.8
-194,Maharashtra,2020,15.4
-195,Manipur,2020,0.1
-196,Meghalaya,2020,0.1
-197,Mizoram,2020,0.1
-198,Nagaland,2020,0.0
-199,Odisha,2020,5.0
-200,Puducherry,2020,0.2
-201,Punjab,2020,2.6
-202,Rajasthan,2020,6.0
-203,Sikkim,2020,0.1
-204,Tamil Nadu,2020,4.9
-205,Telangana,2020,3.2
-206,Tripura,2020,0.2
-207,Uttar Pradesh,2020,8.5
-208,Uttarakhand,2020,0.4
-209,West Bengal,2020,4.0
-210,Andaman and Nicobar Islands,2021,0.1
-211,Andhra Pradesh,2021,4.0
-212,Arunachal Pradesh,2021,0.1
-213,Assam,2021,1.1
-214,Bihar,2021,3.9
-215,Chandigarh,2021,0.1
-216,Chhattisgarh,2021,4.4
-217,Dadra and Nagar Haveli and Daman and Diu,2021,0.1
-218,Delhi,2021,0.8
-219,Goa,2021,0.1
-220,Gujarat,2021,5.5
-221,Haryana,2021,3.9
-222,Himachal Pradesh,2021,0.8
-223,Jammu and Kashmir,2021,0.3
-224,Jharkhand,2021,1.9
-225,Karnataka,2021,6.4
-226,Kerala,2021,3.5
-227,Lakshadweep,2021,0.0
-228,Madhya Pradesh,2021,10.2
-229,Maharashtra,2021,14.7
-230,Manipur,2021,0.1
-231,Meghalaya,2021,0.1
-232,Mizoram,2021,0.1
-233,Nagaland,2021,0.0
-234,Odisha,2021,4.9
-235,Puducherry,2021,0.2
-236,Punjab,2021,2.6
-237,Rajasthan,2021,5.8
-238,Sikkim,2021,0.1
-239,Tamil Nadu,2021,7.1
-240,Telangana,2021,3.3
-241,Tripura,2021,0.2
-242,Uttar Pradesh,2021,9.2
-243,Uttarakhand,2021,0.4
-244,West Bengal,2021,3.9
-245,Andhra Pradesh,2022,142.0
-246,Arunachal Pradesh,2022,25.0
-247,Assam,2022,61.0
-248,Bihar,2022,953.0
-249,Chandigarh,2022,1.0
-250,Chhattisgarh,2022,248.0
-251,Dadra and Nagar Haveli and Daman and Diu,2022,0.0
-252,Delhi,2022,1.0
-253,Goa,2022,4.0
-254,Gujarat,2022,101.0
-255,Haryana,2022,95.0
-256,Himachal Pradesh,2022,110.0
-257,Jammu and Kashmir,2022,169.0
-258,Jharkhand,2022,464.0
-259,Karnataka,2022,140.0
-260,Kerala,2022,29.0
-261,Lakshadweep,2022,0.0
-262,Madhya Pradesh,2022,914.0
-263,Maharashtra,2022,445.0
-264,Manipur,2022,65.0
-265,Meghalaya,2022,42.0
-266,Mizoram,2022,6.0
-267,Nagaland,2022,3.0
-268,Odisha,2022,2445.0
-269,Puducherry,2022,0.0
-270,Punjab,2022,257.0
-271,Rajasthan,2022,133.0
-272,Sikkim,2022,14.0
-273,Tamil Nadu,2022,93.0
-274,Telangana,2022,136.0
-275,Tripura,2022,12.0
-276,Uttar Pradesh,2022,667.0
-277,Uttarakhand,2022,90.0
-278,West Bengal,2022,195.0
+1,Andaman and Nicobar Islands,2015,96
+2,Andhra Pradesh,2015,15320
+3,Arunachal Pradesh,2015,319
+4,Assam,2015,3910
+5,Bihar,2015,9470
+6,Chandigarh,2015,199
+7,Chhattisgarh,2015,14333
+8,Dadra and Nagar Haveli and Daman and Diu,2015,227
+9,Delhi,2015,5763
+10,Goa,2015,746
+11,Gujarat,2015,22127
+12,Haryana,2015,10408
+13,Himachal Pradesh,2015,2449
+14,Jammu and Kashmir,2015,1284
+15,Jharkhand,2015,4819
+16,Karnataka,2015,20065
+17,Kerala,2015,8635
+18,Lakshadweep,2015,4
+19,Madhya Pradesh,2015,30513
+20,Maharashtra,2015,51435
+21,Manipur,2015,240
+22,Meghalaya,2015,369
+23,Mizoram,2015,153
+24,Nagaland,2015,84
+25,Odisha,2015,9887
+26,Puducherry,2015,789
+27,Punjab,2015,8471
+28,Rajasthan,2015,23134
+29,Sikkim,2015,183
+30,Tamil Nadu,2015,28624
+31,Telangana,2015,13225
+32,Tripura,2015,399
+33,Uttar Pradesh,2015,32636
+34,Uttarakhand,2015,2134
+35,West Bengal,2015,13601
+36,Andaman and Nicobar Islands,2016,241
+37,Andhra Pradesh,2016,17382
+38,Arunachal Pradesh,2016,409
+39,Assam,2016,4971
+40,Bihar,2016,9514
+41,Chandigarh,2016,422
+42,Chhattisgarh,2016,17809
+43,Dadra and Nagar Haveli and Daman and Diu,2016,290
+44,Delhi,2016,6573
+45,Goa,2016,768
+46,Gujarat,2016,27283
+47,Haryana,2016,14387
+48,Himachal Pradesh,2016,3278
+49,Jammu and Kashmir,2016,1485
+50,Jharkhand,2016,5758
+51,Karnataka,2016,26133
+52,Kerala,2016,11980
+53,Lakshadweep,2016,12
+54,Madhya Pradesh,2016,41107
+55,Maharashtra,2016,68620
+56,Manipur,2016,286
+57,Meghalaya,2016,403
+58,Mizoram,2016,192
+59,Nagaland,2016,79
+60,Odisha,2016,11821
+61,Puducherry,2016,838
+62,Punjab,2016,10708
+63,Rajasthan,2016,28216
+64,Sikkim,2016,285
+65,Tamil Nadu,2016,32942
+66,Telangana,2016,13288
+67,Tripura,2016,738
+68,Uttar Pradesh,2016,32761
+69,Uttarakhand,2016,1584
+70,West Bengal,2016,16974
+71,Andaman and Nicobar Islands,2017,187
+72,Andhra Pradesh,2017,17238
+73,Arunachal Pradesh,2017,233
+74,Assam,2017,4790
+75,Bihar,2017,11797
+76,Chandigarh,2017,300
+77,Chhattisgarh,2017,18098
+78,Dadra and Nagar Haveli and Daman and Diu,2017,306
+79,Delhi,2017,4911
+80,Goa,2017,843
+81,Gujarat,2017,24541
+82,Haryana,2017,15218
+83,Himachal Pradesh,2017,3249
+84,Jammu and Kashmir,2017,1354
+85,Jharkhand,2017,6113
+86,Karnataka,2017,23618
+87,Kerala,2017,11808
+88,Lakshadweep,2017,6
+89,Madhya Pradesh,2017,40611
+90,Maharashtra,2017,64637
+91,Manipur,2017,278
+92,Meghalaya,2017,477
+93,Mizoram,2017,216
+94,Nagaland,2017,84
+95,Odisha,2017,14326
+96,Puducherry,2017,1552
+97,Punjab,2017,9833
+98,Rajasthan,2017,27832
+99,Sikkim,2017,294
+100,Tamil Nadu,2017,28093
+101,Telangana,2017,11552
+102,Tripura,2017,739
+103,Uttar Pradesh,2017,34760
+104,Uttarakhand,2017,1581
+105,West Bengal,2017,15109
+106,Andaman and Nicobar Islands,2018,183
+107,Andhra Pradesh,2018,16599
+108,Arunachal Pradesh,2018,304
+109,Assam,2018,5031
+110,Bihar,2018,11635
+111,Chandigarh,2018,242
+112,Chhattisgarh,2018,18601
+113,Dadra and Nagar Haveli and Daman and Diu,2018,300
+114,Delhi,2018,5103
+115,Goa,2018,738
+116,Gujarat,2018,24653
+117,Haryana,2018,15376
+118,Himachal Pradesh,2018,2806
+119,Jammu and Kashmir,2018,1388
+120,Jharkhand,2018,6199
+121,Karnataka,2018,24829
+122,Kerala,2018,12016
+123,Lakshadweep,2018,6
+124,Madhya Pradesh,2018,41682
+125,Maharashtra,2018,68451
+126,Manipur,2018,285
+127,Meghalaya,2018,440
+128,Mizoram,2018,181
+129,Nagaland,2018,84
+130,Odisha,2018,17052
+131,Puducherry,2018,1213
+132,Punjab,2018,10202
+133,Rajasthan,2018,28261
+134,Sikkim,2018,275
+135,Tamil Nadu,2018,24433
+136,Telangana,2018,10847
+137,Tripura,2018,686
+138,Uttar Pradesh,2018,36868
+139,Uttarakhand,2018,1855
+140,West Bengal,2018,16109
+141,Andaman and Nicobar Islands,2019,198
+142,Andhra Pradesh,2019,17938
+143,Arunachal Pradesh,2019,275
+144,Assam,2019,5436
+145,Bihar,2019,15211
+146,Chandigarh,2019,414
+147,Chhattisgarh,2019,19789
+148,Dadra and Nagar Haveli and Daman and Diu,2019,272
+149,Delhi,2019,4919
+150,Goa,2019,795
+151,Gujarat,2019,23910
+152,Haryana,2019,15639
+153,Himachal Pradesh,2019,3256
+154,Jammu and Kashmir,2019,1451
+155,Jharkhand,2019,7703
+156,Karnataka,2019,25451
+157,Kerala,2019,13763
+158,Lakshadweep,2019,5
+159,Madhya Pradesh,2019,42431
+160,Maharashtra,2019,70329
+161,Manipur,2019,309
+162,Meghalaya,2019,476
+163,Mizoram,2019,171
+164,Nagaland,2019,63
+165,Odisha,2019,16459
+166,Puducherry,2019,1103
+167,Punjab,2019,11048
+168,Rajasthan,2019,28697
+169,Sikkim,2019,295
+170,Tamil Nadu,2019,22404
+171,Telangana,2019,11720
+172,Tripura,2019,707
+173,Uttar Pradesh,2019,40596
+174,Uttarakhand,2019,1886
+175,West Bengal,2019,15985
+176,Andaman and Nicobar Islands,2020,213
+177,Andhra Pradesh,2020,14653
+178,Arunachal Pradesh,2020,354
+179,Assam,2020,4913
+180,Bihar,2020,14474
+181,Chandigarh,2020,323
+182,Chhattisgarh,2020,20057
+183,Dadra and Nagar Haveli and Daman and Diu,2020,255
+184,Delhi,2020,4116
+185,Goa,2020,611
+186,Gujarat,2020,20799
+187,Haryana,2020,14849
+188,Himachal Pradesh,2020,2751
+189,Jammu and Kashmir,2020,1305
+190,Jharkhand,2020,6890
+191,Karnataka,2020,24398
+192,Kerala,2020,12981
+193,Lakshadweep,2020,3
+194,Madhya Pradesh,2020,40518
+195,Maharashtra,2020,57806
+196,Manipur,2020,288
+197,Meghalaya,2020,491
+198,Mizoram,2020,195
+199,Nagaland,2020,74
+200,Odisha,2020,18888
+201,Puducherry,2020,882
+202,Punjab,2020,9573
+203,Rajasthan,2020,22384
+204,Sikkim,2020,299
+205,Tamil Nadu,2020,18390
+206,Telangana,2020,11822
+207,Tripura,2020,694
+208,Uttar Pradesh,2020,31691
+209,Uttarakhand,2020,1663
+210,West Bengal,2020,14794
+211,Andaman and Nicobar Islands,2021,210
+212,Andhra Pradesh,2021,16044
+213,Arunachal Pradesh,2021,391
+214,Assam,2021,4524
+215,Bihar,2021,15405
+216,Chandigarh,2021,379
+217,Chhattisgarh,2021,17525
+218,Dadra and Nagar Haveli and Daman and Diu,2021,274
+219,Delhi,2021,3185
+220,Goa,2021,596
+221,Gujarat,2021,22052
+222,Haryana,2021,15492
+223,Himachal Pradesh,2021,3003
+224,Jammu and Kashmir,2021,1539
+225,Jharkhand,2021,7369
+226,Karnataka,2021,25278
+227,Kerala,2021,13886
+228,Lakshadweep,2021,6
+229,Madhya Pradesh,2021,40510
+230,Maharashtra,2021,58242
+231,Manipur,2021,277
+232,Meghalaya,2021,566
+233,Mizoram,2021,232
+234,Nagaland,2021,73
+235,Odisha,2021,19663
+236,Puducherry,2021,917
+237,Punjab,2021,10445
+238,Rajasthan,2021,23197
+239,Sikkim,2021,233
+240,Tamil Nadu,2021,28286
+241,Telangana,2021,13097
+242,Tripura,2021,638
+243,Uttar Pradesh,2021,36521
+244,Uttarakhand,2021,1777
+245,West Bengal,2021,15698
+246,Andaman and Nicobar Islands,2022,207
+247,Andhra Pradesh,2022,16693
+248,Arunachal Pradesh,2022,409
+249,Assam,2022,5057
+250,Bihar,2022,16025
+251,Chandigarh,2022,287
+252,Chhattisgarh,2022,16893
+253,Dadra and Nagar Haveli and Daman and Diu,2022,309
+254,Delhi,2022,3648
+255,Goa,2022,696
+256,Gujarat,2022,22410
+257,Haryana,2022,16041
+258,Himachal Pradesh,2022,2834
+259,Jammu and Kashmir,2022,1786
+260,Jharkhand,2022,7772
+261,Karnataka,2022,29090
+262,Kerala,2022,15119
+263,Lakshadweep,2022,8
+264,Madhya Pradesh,2022,43726
+265,Maharashtra,2022,66656
+266,Manipur,2022,353
+267,Meghalaya,2022,590
+268,Mizoram,2022,319
+269,Nagaland,2022,55
+270,Odisha,2022,21013
+271,Puducherry,2022,1064
+272,Punjab,2022,11126
+273,Rajasthan,2022,26449
+274,Sikkim,2022,310
+275,Tamil Nadu,2022,29115
+276,Telangana,2022,12710
+277,Tripura,2022,635
+278,Uttar Pradesh,2022,42930
+279,Uttarakhand,2022,2675
+280,West Bengal,2022,15494
